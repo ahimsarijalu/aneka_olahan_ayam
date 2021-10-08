@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Aneka Olahan Ayam</string>
+    
+    <string-array name="olahan_ayam">
+        <item>Ayam Katsu</item>
+        <item>Rolade Ayam</item>
+        <item>Ayam Saus Tiram</item>
+        <item>Ayam Kungpao</item>
+        <item>Ayam Hainan</item>
+        <item>Ayam Rica-Rica</item>
+        <item>Ayam Geprek</item>
+        <item>Ayam Suwir Sambal Matah</item>
+        <item>Ayam Teriyaki</item>
+        <item>Ayam Telur Asin</item>
+        <item>Ayam Goreng Mentega</item>
+        <item>Ayam Goreng Krispi</item>
+        <item>Opor Ayam</item>
+        <item>Semur Ayam</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Ayam katsu ala restoran Jepang untuk kamu yang tidak memiliki banyak waktu.</item>
+        <item>Rasanya yang gurih dan juga sedikit minyak, membuat rolade ayam banyak dibuat untuk kamu yang sedang diet.</item>
+        <item>Rasa umami dari saus tiram yang bercampur dengan daging ayam yang legit, melengkapi lezatnya hidangan ini.</item>
+        <item>Rasanya yang cenderung manis, dilengkapi dengan tekstur crunchy dari kacang mede, membuat siapapun jatuh cinta!</item>
+        <item>Ciri khas olahan ayam satu ini adalah rasanya yang gurih dengan aroma jahe yang menjadi pelengkap.</item>
+        <item>Rasanya yang pedas, gurih, dan sensasi aromatik daun kemangi dijamin membangkitkan selera makan kamu, deh!</item>
+        <item>Resep olahan ayam kekinian satu ini, yang banyak di gandrungi oleh generasi milenial, bisa banget loh, kamu buat di rumah sendiri.</item>
+        <item>Segarnya sambal matah, sangat cocokk dipadupadankan dengan ayam suir.</item>
+        <item> Rasanya yang manis dan dipadukan dengan gurihnya ayam, menjadikan ayam teriyaki menjadi olahan ayam favorit anak dan juga keluarga.</item>
+        <item>Gurih dari kuning telur asin yang unik sangat pas dipadukan dengan potongan ayam goreng, apalagi di tambah dengan nasi panas.</item>
+        <item>Resep masakan ayam ini dibuat dengan cara digoreng terlebih dahulu, kemudian dicampur dengan saus dan mentega.</item>
+        <item>Renyahnya olahan ayam ini selalu menggiurkan.</item>
+        <item>Gurih nikmatnya kuah opor saat dimakan dengan nasi atau ketupat rasanya enak banget, deh!</item>
+        <item>Dimakan dengan atau tanpa nasi, rasanya semur ini tidak pernah salah deh!</item>
+    </string-array>
+</resources>
